@@ -1,0 +1,21 @@
+{
+  "type": "panel",
+  "name": "ES Tab Predict",
+  "id": "id-es-tab-heat-predict",
+  "dataFormats": ["table"],
+  "info": {
+    "description": "ES Tab Heat Predict",
+    "author": {
+      "name": "Nam Le"
+    },
+    "keywords": [],
+    "screenshots": [],
+    "version": "%VERSION%",
+    "updated": "%TODAY%"
+  },
+
+  "dependencies": {
+    "grafanaVersion": "6.3.x",
+    "plugins": []
+  }
+}
